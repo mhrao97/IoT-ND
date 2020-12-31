@@ -1,0 +1,7 @@
+image==1.5.27
+numpy==1.17.4
+requests==2.22.0
+ipdb==0.12.3
+Pillow==6.2.1
+pyautogui
+opencv-python
