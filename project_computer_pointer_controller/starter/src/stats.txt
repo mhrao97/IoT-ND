@@ -1,0 +1,15 @@
+
+ ---- test time: 2020-08-09 22:50:43 ---- 
+Inference time 97.1
+FPS - frames/second 0.6076210092687951
+Total load time 0.6092281341552734
+
+ ---- test time: 2020-08-09 22:54:16 ---- 
+Inference time 96.8
+FPS - frames/second 0.609504132231405
+Total load time 0.9642143249511719
+
+ ---- test time: 2020-08-09 22:57:31 ---- 
+Inference time 97.8
+FPS - frames/second 0.6032719836400818
+Total load time 0.6575019359588623
