@@ -1,0 +1,48 @@
+
+2020-08-09 22:50:43 Started app 
+
+ Loaded models.....
+Face detection: 187.422 ms
+Facial Landmarks detection: 156.212 ms
+Head Pose estimation: 125.004 ms
+Gaze estimation: 140.590 ms
+Total loading time: 609.228 ms
+---Success loading all models---
+---Streaming Input video--- 
+Total inference time 97.1
+FPS 0.6076210092687951
+Total time 0.6092281341552734
+
+2020-08-09 22:52:21 Completed run 
+
+2020-08-09 22:54:16 Started app 
+
+ Loaded models.....
+Face detection: 204.493 ms
+Facial Landmarks detection: 217.537 ms
+Head Pose estimation: 239.436 ms
+Gaze estimation: 302.748 ms
+Total loading time: 964.214 ms
+---Success loading all models---
+---Streaming Input video--- 
+Total inference time 96.8
+FPS 0.609504132231405
+Total time 0.9642143249511719
+
+2020-08-09 22:55:55 Completed run 
+
+2020-08-09 22:57:31 Started app 
+
+ Loaded models.....
+Face detection: 205.180 ms
+Facial Landmarks detection: 164.585 ms
+Head Pose estimation: 126.592 ms
+Gaze estimation: 161.144 ms
+Total loading time: 657.502 ms
+---Success loading all models---
+---Streaming Input video--- 
+Total inference time 97.8
+FPS 0.6032719836400818
+Total time 0.6575019359588623
+
+2020-08-09 22:59:10 Completed run 
