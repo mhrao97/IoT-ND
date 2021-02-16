@@ -30,9 +30,9 @@ Pre-trained models can be installed using the model downloader. I have used the 
    setupvars.bat    
    (command setupvars.bat initializes openvino environment)
 4. Now go to the folder where you want the models downloaded. I have used C:\temp folder for my project. The starter files for this project are within c:\temp folder.    
-<img src=c:\temp\starter\temp_folder.png>
+<img src=temp_folder.png>
 I have created a models folder within the starter folder and downloaded the models here.   
-<img src=c:\temp\starter\models_folder.png>   
+<img src=models_folder.png>   
 
 The command used is...   
 cd c:\temp\starter\models   
